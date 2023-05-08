@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on PT. NARCON
 - 🌱 I’m currently learning to building responsive front-end web applications integrating back-end technologies
 - 👯 I’m looking to collaborate on front end develover
-- 💬 Ask me about everything
 - 📫 How to reach me: mardian.2507@gmail.com or WhatsApp me +62-856-5946-7422
 
 ## 🌐 Socials:
